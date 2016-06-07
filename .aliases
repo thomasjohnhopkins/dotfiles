@@ -16,6 +16,7 @@ alias p="cd ~/projects"
 alias g="git"
 alias h="history"
 alias j="cd ~/Documents/jackpocket/jackpocket"
+alias stb="cd ~/Documents/jackpocket/statusboard"
 
 # Ruby
 alias be='bundle exec'
