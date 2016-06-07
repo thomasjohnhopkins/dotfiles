@@ -17,6 +17,7 @@ alias g="git"
 alias h="history"
 alias j="cd ~/Documents/jackpocket/jackpocket"
 alias stb="cd ~/Documents/jackpocket/statusboard"
+alias atm="atom ."
 
 # Ruby
 alias be='bundle exec'
