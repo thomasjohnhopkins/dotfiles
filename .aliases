@@ -23,6 +23,7 @@ alias bi='bundle install'
 alias bu='bundle update'
 alias ber='bundle exec rspec'
 alias fs='foreman start'
+alias rtl='tail -f log/development.log'
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
